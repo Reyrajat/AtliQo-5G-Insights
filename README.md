@@ -43,8 +43,7 @@ After launching 5G services, AtliQo experienced a decline in **active users** an
 ---
 
 ## 🔗 Project Links
-- ✅ [Codebasics Challenge Page](https://codebasics.io/challenge/codebasics-resume-project-challenge#)  
-- 📊 [Live Dashboard on NovyPro](https://www.novypro.com/project/atliqo-telecom-analysis-power-bi-3)
+- ✅ [Codebasics Challenge Page]()  
 
 ---
 

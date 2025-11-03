@@ -43,7 +43,7 @@ After launching 5G services, AtliQo experienced a decline in **active users** an
 ---
 
 ## 🔗 Project Links
-- 📊 [Live Dashboard]() 
+- 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGUxZDU2YWItZTNkOC00MTQ5LTgyZjktOTM5NTU3MWM5NTVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ead0394982e4b331ee56) 
 
 ---
 

@@ -33,12 +33,17 @@ After launching 5G services, AtliQo experienced a decline in **active users** an
 
 ## 📈 Key Insights
 
-- 📉 **Revenue dropped by 0.5%** after the 5G rollout, especially in **Delhi, Chennai, Ahmedabad, Hyderabad, and Chandigarh**.
-- 📊 **ARPU increased** from ₹190.2 to ₹211.3, but **active users declined by 8.3%**, suggesting dissatisfaction or overpricing.
-- 🚨 **Unsubscribers increased by 23%**, showing signs of churn and customer dissatisfaction.
-- ⭐ **Mumbai** emerged as a **top-performing region** with steady revenue growth.
-- 📶 **Top Performing Plans**: Plan IDs **1, 2, 3, 11, and 12** delivered the highest user engagement and revenue.
-- 📉 **Market share dropped from 20% to 18%** post-5G rollout, indicating competitor advantage or service mismatch.
+📉 Revenue declined slightly by 0.5% after the 5G launch (₹1597.7 Cr → ₹1589.7 Cr), showing stagnation despite overall market growth. The decline was most evident in Delhi, Chennai, Ahmedabad, Hyderabad, and Chandigarh.
+
+📊 ARPU increased by 8.5% (₹189.4 → ₹205.5), but active users fell by 8.3% (843.5L → 773.7L), indicating that pricing increases drove short-term revenue but triggered user churn.
+
+🚨 Unsubscribed users surged by 23.5%, confirming growing customer dissatisfaction post-5G rollout and signaling the need for retention campaigns.
+
+⭐ Mumbai, Kolkata, and Gurgaon maintained steady revenue growth and continue to be AtliQo’s strongest-performing cities.
+
+💰 Top-performing plans — P1, P2, P3, P4, and P11 — together contribute over 60% of total plan revenue, with P11 (a new 5G plan) showing exceptional adoption and growth potential.
+
+📉 Market share declined from 20.2% to 18.9% post-5G, while PIO and Britel gained ground, suggesting a competitive pricing or service positioning gap.
 
 ---
 
